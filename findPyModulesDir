@@ -1,0 +1,6 @@
+Open the terminal
+    $ python[version]
+    
+    $import [module name]
+     
+    $[module name].__file__
